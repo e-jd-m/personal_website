@@ -9,6 +9,9 @@
           <li><a href="https://github.com/e-jd-m">Github</a></li>
         </ul>
       </div>
+      <div id="summary">
+        <p>CS student, aspiring developer</p>
+      </div>
       <div id="skills-box">
         <ul id="skills">
           <li>PHP (Nette)</li>
@@ -33,6 +36,10 @@ export default {
   cursor: pointer;
 }
 
+.about {
+  display: flex;
+}
+
 .contacts,
 #skills {
   list-style: none;
@@ -51,6 +58,9 @@ export default {
 
 .greeting,
 #name {
+  text-align: center;
+}
+#summary {
   text-align: center;
 }
 </style>
