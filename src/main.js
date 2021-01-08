@@ -11,3 +11,5 @@ new Vue({
   router,
   render: h => h(App)
 }).$mount('#app')
+
+//<link rel="icon" href="<%= BASE_URL %>favicon.ico">
