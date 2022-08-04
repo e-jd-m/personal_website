@@ -9,16 +9,6 @@
           <li><a href="https://github.com/e-jd-m">Github</a></li>
         </ul>
       </div>
-      <div id="summary">
-        <p>CS student, aspiring developer</p>
-      </div>
-      <div id="skills-box">
-        <ul id="skills">
-          <li>PHP (Nette)</li>
-          <li>JS (Node, Vue)</li>
-          <li>Java</li>
-        </ul>
-      </div>
     </div>
   </div>
 </template>
